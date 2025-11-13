@@ -1,0 +1,10 @@
+# Byte-compiled / caches
+__pycache__/
+*.pyc
+
+# Data and outputs
+data/
+output/
+
+# Jupyter
+.ipynb_checkpoints
